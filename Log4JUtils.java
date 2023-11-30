@@ -1,4 +1,3 @@
-package com.omv.endur.appInterface.SAPCreditInterface.util;
 
 import com.olf.openjvs.DBUserTable;
 import com.olf.openjvs.DBaseTable;
@@ -15,13 +14,11 @@ import com.olf.openjvs.enums.DATE_FORMAT;
 import com.olf.openjvs.enums.OLF_RETURN_CODE;
 import com.olf.openjvs.enums.SHM_USR_TABLES_ENUM;
 import com.olf.openjvs.enums.TRANF_FIELD;
-import com.omv.endur.appInterface.SAPCreditInterfaceEast.constants.SapCreditConstRepo;
-import com.omv.endur.util.TableUtil;
 import com.openlink.util.logging.PluginLog;
 
 /**
  * <h1>Project: SAPCreditInterfaceEast</h1>
- * <h2>Author: EMC, 08.06.2021; Roberto Magistrelli</h2>
+ * <h2>Author: , 08.06.2021; </h2>
  * <h3>Description</h3>
  * <p>Class used for general static utility functions</p>
  */
